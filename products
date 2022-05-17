@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>About</h1>
+    <a href="/index.html">Home</a>
+    <img src="http://vaskarika.hu/images/body/6265982615cdb2d1d97e6c_0c22b332.jpg" alt="Tasty burger">
+    <img src="img/burger.jpg" alt="Very tasty burger">
+    <a target="blank" href="https://www.index.hu">Hírek
+        <img width="56" src="http://vaskarika.hu/images/body/6265982615cdb2d1d97e6c_0c22b332.jpg" alt="Tasty burger">  
+    </a>
+</body>
+</html>
